@@ -2,6 +2,10 @@
 
 This repo demonstrates how to fetch data from an API in Nuxt.
 
+## Caching
+
+Due to caching, a page reload is important to witness the different features behavior
+
 ## Suspense
 
 Nuxt implements Vue 3's Suspense API and waits for all asynchronous operations to finish before page rendering and transitions.
